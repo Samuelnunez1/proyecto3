@@ -1,0 +1,1 @@
+<?php /* Dashboard con Chart.js */ ?>

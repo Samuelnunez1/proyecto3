@@ -1,0 +1,1 @@
+Carpeta FPDF incluida para tickets PDF

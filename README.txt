@@ -1,0 +1,1 @@
+Restaurante Pro - versión final con login, dashboard, tickets PDF y Chart.js
